@@ -1,0 +1,54 @@
+﻿Scanned_Documents\BCTC-625987.pdf Scraped Data:
+
+Product Name:22-Inch Wheels
+Company Name:Cordovan Limited
+Model Name:M00653
+Address:6 Ludington Center, Sarasota, Florida
+Test Date:16 Jan 2019 - 18 Jan 2019
+DOR:19 Jan 2019
+Report Number:BCTC—GZS 987
+Scanned_Documents\BCTC-695884.pdf Scraped Data:
+
+Product Name:RPG Elite
+Company Name:Sigma Limited
+Model Name:M00698
+Address:15015 Menomonie Street, Louisville, Kentucky
+Test Date:17 Feb 2019 - 14 Feb 2019
+DOR:25 Feb 2019
+Report Number:BCTC—695884
+Scanned_Documents\BCTC-783523.pdf Scraped Data:
+
+Product Name:GRV-E-Sport
+Company Name:Move 3. Groove Limited
+Model Name:MOD1479
+Address:62892 Loomis Pass, Dallas Texas, USA
+Test Date:6 Jan 2019 - 10 Jan 2019
+DOR:11 Jan 2019
+Report Number:BCTC—783523
+Scanned_Documents\BCTC-625987.pdf Scraped Data:
+
+Product Name:22-Inch Wheels
+Company Name:Cordovan Limited
+Model Name:M00653
+Address:6 Ludington Center, Sarasota, Florida
+Test Date:16 Jan 2019 - 18 Jan 2019
+DOR:19 Jan 2019
+Report Number:BCTC-625 987
+Scanned_Documents\BCTC-695884.pdf Scraped Data:
+
+Product Name:RPG Elite
+Company Name:Sigma Limited
+Model Name:M00698
+Address:15015 Menomonie Street, Louisville, Kentucky
+Test Date:17 Feb 2019 - 14 Feb 2019
+DOR:25 Feb 2019
+Report Number:BCTC—695884
+Scanned_Documents\BCTC-783523.pdf Scraped Data:
+
+Product Name:GRV-E-Sport
+Company Name:Move 3. Groove Limited
+Model Name:MOD1479
+Address:62892 Loomis Pass, Dallas Texas, USA
+Test Date:6 Jan 2019 - 10 Jan 2019
+DOR:11 Jan 2019
+Report Number:BCTC—783523
